@@ -34,12 +34,12 @@ def chat_bot():
       answer: str = get_output_for_userinput(best_match, knowledge_base)
       print(f'Bot: {answer}')
     else:
-      print("Bot: I don't know the anser can you please teach me !")
-      new_answer: str = input('Type the answer or "skip" to Skip: ')
+      print("Bot: I don't know the answer could you please sprinkle some knowledge in me !")
+      new_answer: str = input('You can either type the answer here or dodge by typing "Skip", Its your call!! ')
       if new_answer.lower() != "skip":
         knowledge_base['questions'].append({"question": user_input, "answer": new_answer})
         update_mind('knowledge_base.json', knowledge_base)
-        print("Bot: Thank You! I learnd a new Response. ")
+        print("Bot: Sure things!! I will inscribe this answer in my dumb Brain")
 
 
 
