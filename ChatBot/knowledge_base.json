@@ -55,6 +55,22 @@
     {
       "question": "awesom",
       "answer": "thats awesome"
+    },
+    {
+      "question": "morning",
+      "answer": "good morning"
+    },
+    {
+      "question": "how is it going?",
+      "answer": "its going good trust me, I don't know how though"
+    },
+    {
+      "question": "good evening",
+      "answer": "good evening"
+    },
+    {
+      "question": "bye",
+      "answer": "good bye buddy"
     }
   ]
 }
