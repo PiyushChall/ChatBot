@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hello",
+      "answer": "hello"
+    },
+    {
+      "question": "hey",
+      "answer": "hey there"
+    },
+    {
+      "question": "how are you",
+      "answer": "fine what about you"
+    },
+    {
+      "question": "who are you",
+      "answer": "I am ChatBot"
+    },
+    {
+      "question": "What are you",
+      "answer": "I am a simple Chatbot who learns through user feed backs"
+    },
+    {
+      "question": "What is your name",
+      "answer": "The developer forgot to name me"
+    },
+    {
+      "question": "Who made you",
+      "answer": "A developer"
+    },
+    {
+      "question": "what is the weather today",
+      "answer": "I don't know, maybe try looking outside the window"
+    },
+    {
+      "question": "Are you a girl or a boy",
+      "answer": "hoe the hell can you determine a gender of a robot, though if you preffer ill pretend to be a girl"
+    },
+    {
+      "question": "Are you friendly",
+      "answer": "Well ofcourse I am not a hostile creature"
+    },
+    {
+      "question": "do you preffer cat or a dog",
+      "answer": "well it depends on,  which one is hostile"
+    },
+    {
+      "question": "fine",
+      "answer": "thats nice"
+    },
+    {
+      "question": "awesom",
+      "answer": "thats awesome"
+    }
+  ]
+}
